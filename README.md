@@ -7,19 +7,12 @@ I have been more focused working on the backend, however, I find myself learning
 
 ## Technologies:
 [![PHP](https://img.shields.io/badge/php-3F50A5?style=for-the-badge&logo=php&logoColor=white)]()
-<br>
 [![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)]()
-<br>
 [![Vue.js](https://img.shields.io/badge/vue-41B989?style=for-the-badge&logo=vue.js&logoColor=white)]()
-<br>
 [![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)]()
-<br>
 [![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)]()
-<br>
 [![Bootstrap](https://img.shields.io/badge/bootstrap-6A41B9?style=for-the-badge&logo=bootstrap&logoColor=white)]()
-<br>
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)]()
-<br>
 [![Jira](https://img.shields.io/badge/jira-2A71DE?style=for-the-badge&logo=jira&logoColor=white)]()
 
 
