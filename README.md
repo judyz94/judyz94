@@ -1,6 +1,6 @@
 ### Hello, my name is Judy Zapata
 
-I'm a full stack software developer for more than two years. I develop with PHP with Laravel on the back side and with Vue.js, HTML, CSS and Bootstrap on the front side.
+I am a full stack software developer with 4 years of experience. I develop with PHP with Laravel on the back side and with Vue.js, HTML, CSS and Bootstrap on the front side.
 
 I have been more focused working on the backend, however, I find myself learning and expanding my knowledge on the frontend as well.
 
